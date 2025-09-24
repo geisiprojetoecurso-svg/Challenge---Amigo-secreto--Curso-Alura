@@ -1,4 +1,4 @@
-# Challenge---Amigo-secreto--Curso-Alura
+#Challenge-Amigo-secreto-Curso-Alura
 Desafio amigo Secreto é um projeto onde você adiciona nomes de amigos a uma lista e realizar um sorteio entre eles. Esse projeto faz parte da fase de seleção da formação do programa ONE com a Alura + Oracle.
 Funcionalidades
 Adicionar nomes de amigos;
@@ -10,8 +10,7 @@ Tecnologias utilizadas
 JavaScript
 HTML5
 CSS
-Funcionamento do projeto[about.html](https://github.com/user-attachments/files/22504496/about.html)
-[index.html](https://github.com/user-attachments/files/22504497/index.html)
+
 Sugestões
 Fiquem à vontade para mandar sugestões.
 
